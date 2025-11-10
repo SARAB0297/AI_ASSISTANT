@@ -1,4 +1,4 @@
-# 🤖 AI Assistant Full Stack Web App
+# 🤖 AI Assistant Web App
 
 This is a **Full Stack AI Assistant Application** built using **React (Vite)** for the frontend and **Node.js + Express + MongoDB** for the backend.  
 The app integrates **JWT authentication**, **Cloudinary** for image/media hosting, **Multer** for handling file uploads, and **Google Gemini API** for generative AI-powered content generation.
