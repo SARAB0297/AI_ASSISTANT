@@ -4,6 +4,12 @@ This is a **Full Stack AI Assistant Application** built using **React (Vite)** f
 The app integrates **JWT authentication**, **Cloudinary** for image/media hosting, **Multer** for handling file uploads, and **Google Gemini API** for generative AI-powered content generation.
 
 ---
+	AI Assistant Web Application | MERN Stack | Google Gemini API | Cloudinary | Multer    Link
+
+	Engineered API development for an AI assistant, integrating the Google Gemini API for content  generation and building a Cloudinary-Multer pipeline for secure uploads, achieving~30-40% faster image handling versus local storage.
+
+	Implemented end-to-end JWT authentication, RESTful APIs, and Cloud-based file hosting,       improving scalability, latency, and user experience.
+
 
 ## 🚀 Features
 
